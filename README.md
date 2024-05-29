@@ -10,3 +10,7 @@ Sobre mí:
 Contacto:
 - 🌐 LinkedIn: https://www.linkedin.com/in/eduardorivasplata/
 - ✉️ Correo electrónico: eduardo_rpu@outlook.com
+
+💻 Tecnologies
+
+[![My Tecnologies](https://skillicons.dev/icons?i=python,html,css,anaconda,git,github)](https://skillicons.dev)

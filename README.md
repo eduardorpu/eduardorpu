@@ -14,3 +14,7 @@ Contacto:
 💻 Tecnologies
 
 [![My Tecnologies](https://skillicons.dev/icons?i=python,html,css,anaconda,git,github)](https://skillicons.dev)
+
+🔥Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardorpu)](https://github.com/anuraghazra/github-readme-stats)
